@@ -1,1 +1,0 @@
-# genai-task-1
